@@ -12,3 +12,5 @@ To use it, you'll need to add your bridge's IP address where it says YOUR.IP.ADD
 Support for other programs shouldn't be difficult to add, but for now only VLC is supported.
 
 Requires OS X and phue for python.
+
+To run: ./VLC.py
